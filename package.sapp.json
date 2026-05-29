@@ -20,7 +20,7 @@
     }
   },
   "files": {
-    "README.md": "# Succinea\n\nSuccinea is a small host status bar app for Shellex OS. It can show date/time, app count, memory, CPU estimate and vault storage.\n\nConfiguration lives at `/system/succinea/config.json` inside the vault.\n",
+    "README.md": "# Succinea\n\nSuccinea is a small host status bar app. Right-click it to edit visible status modules.\n\nRun `succinea help` in Shell for usage.\n\nConfiguration lives at `/system/succinea/config.json` inside the vault.",
     "config.example.json": "{\n  \"label\": \"Succinea\",\n  \"showDateTime\": true,\n  \"showMemory\": true,\n  \"showCpu\": true,\n  \"showStorage\": true,\n  \"showRunningApps\": true,\n  \"compact\": true\n}"
   }
 }
