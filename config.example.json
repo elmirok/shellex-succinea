@@ -1,0 +1,9 @@
+{
+  "label": "Succinea",
+  "showDateTime": true,
+  "showMemory": true,
+  "showCpu": true,
+  "showStorage": true,
+  "showRunningApps": true,
+  "compact": true
+}
