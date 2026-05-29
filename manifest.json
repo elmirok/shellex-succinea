@@ -1,0 +1,20 @@
+{
+  "id": "system.succinea.local",
+  "name": "Succinea",
+  "version": "1.0.0",
+  "author": "Shellex",
+  "description": "A delicate status bar for time, runtime memory, CPU estimate and vault storage.",
+  "repository": "https://github.com/elmirok/shellex-succinea",
+  "type": "system-app",
+  "entry": "README.md",
+  "runtime": "host",
+  "permissions": [
+    "system:status",
+    "settings:write:/system/succinea/config.json"
+  ],
+  "window": {
+    "width": 0,
+    "height": 0,
+    "resizable": false
+  }
+}
