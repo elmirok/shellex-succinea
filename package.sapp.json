@@ -4,7 +4,7 @@
     "name": "Succinea",
     "version": "1.0.0",
     "author": "Shellex",
-    "description": "A delicate status bar for time, runtime memory, CPU estimate and vault storage.",
+    "description": "A delicate status bar for time, Shellex version, runtime memory and vault storage.",
     "repository": "https://github.com/elmirok/shellex-succinea",
     "type": "system-app",
     "entry": "README.md",
@@ -21,6 +21,6 @@
   },
   "files": {
     "README.md": "# Succinea\n\nSuccinea is a small host status bar app. Right-click it to edit visible status modules.\n\nRun `succinea help` in Shell for usage.\n\nConfiguration lives at `/system/succinea/config.json` inside the vault.",
-    "config.example.json": "{\n  \"label\": \"Succinea\",\n  \"showDateTime\": true,\n  \"showMemory\": true,\n  \"showCpu\": true,\n  \"showStorage\": true,\n  \"showRunningApps\": true,\n  \"compact\": true\n}"
+    "config.example.json": "{\n  \"label\": \"Succinea\",\n  \"showDateTime\": true,\n  \"showVersion\": true,\n  \"showMemory\": true,\n  \"showStorage\": true,\n  \"showRunningApps\": true,\n  \"compact\": true\n}"
   }
 }
