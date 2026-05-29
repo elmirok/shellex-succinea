@@ -3,7 +3,7 @@
   "name": "Succinea",
   "version": "1.0.0",
   "author": "Shellex",
-  "description": "A delicate status bar for time, runtime memory, CPU estimate and vault storage.",
+  "description": "A delicate status bar for time, Shellex version, runtime memory and vault storage.",
   "repository": "https://github.com/elmirok/shellex-succinea",
   "type": "system-app",
   "entry": "README.md",
