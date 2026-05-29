@@ -9,6 +9,6 @@ Configuration lives at `/system/succinea/config.json` inside the vault.
 ## Shellex package
 
 - App id: `system.succinea.local`
-- Version: `1.0.0`
+- Version: `1.0.1`
 - Runtime: `host`
 - Type: `system-app`
